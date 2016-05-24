@@ -13,5 +13,5 @@ $ javac HelloWorld.java
 How to run:
 
 ```
-$ HelloWorld
+$ java HelloWorld
 ```
